@@ -1,0 +1,4 @@
+# Cloudflare Turnstile Atlatma Aracı - Temel Bağımlılıklar
+# Python 3.9+
+
+seleniumbase>=4.28.0    # SeleniumBase UC Mode (ana bileşen)
